@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Strix12
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Python and Typescript
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me: t.kotila2202@gmail.com
 
 <!---
